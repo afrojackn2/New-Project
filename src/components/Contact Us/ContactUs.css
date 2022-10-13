@@ -1,0 +1,77 @@
+.form{
+   margin-top: 9.37rem;
+   margin-left: 10rem;
+    width: 42rem;
+    height: 38.625rem;
+    border: 1px solid rgb(255, 0, 47);
+    left: 0px;
+    top: 5.3;
+    background: #FFFFFF;
+}
+
+
+.contact-us {
+  font-family: 'Varela Round', sans-serif;
+    font-style: normal;
+    font-size: 3.1rem;
+    line-height: 4.6rem;
+    color: #363535;
+    text-align: left;
+}
+
+input {
+    border: none;
+    border-bottom: 3px solid #9DC164;
+    width: 90%;
+    margin-bottom:1rem;
+    outline: none;
+    }
+  .responsive{
+    margin-left:3rem;
+    margin-top: 3rem;
+    text-align: left;
+}
+.container1{
+  margin-top: 1.8rem;
+}
+
+  .submit{
+    margin-top: 2rem;
+    display: flex;
+    justify-content:center;
+    gap: 2rem;
+  }
+
+  .button1{
+   background: #9DC164;
+   border-radius: 0.3rem;
+   font-size:1.1rem;
+   font-style: normal;
+  }
+  .button2{
+    background: #363535;
+    border-radius: 0.3rem;
+    color: white;
+    font-size:1.1rem;
+    font-style: normal;
+  }
+
+  #textArea1{
+    border: 0.18rem solid #9DC164;
+    margin-top: 1.25rem;
+  }
+
+.container{
+  display: flex;
+  align-items:center;
+ }
+.imgages{
+  margin-left: 5rem;
+  margin-top: 12.5rem;
+}
+.imgages img{
+  width: 22rem;
+  height: 7.37rem;
+}
+
+  

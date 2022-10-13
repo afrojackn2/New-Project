@@ -1,0 +1,162 @@
+.form_login {
+  width: 50%;
+  height: 4.3rem;
+}
+.Login {
+  position: absolute;
+  width: 4.5rem;
+  height: 2.18rem;
+  left: 5.75rem;
+  top: 12.1rem;
+
+  font-family: 'Varela Round', sans-serif;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 1.8rem;
+  line-height: 2.18rem;
+  color: #000000;
+}
+.paragraph {
+  position: absolute;
+  width: 23.6rem;
+  left: 5.75rem;
+  top: 16.7rem;
+
+  font-family: 'Varela Round', sans-serif;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 1.5rem;
+  line-height: 1.8rem;
+  text-align: left;
+
+  color: rgba(4, 4, 4, 0.25);
+}
+.naming {
+  position: absolute;
+  width: 12.9rem;
+  height: 1.8rem;
+  left: 5.5rem;
+  top: 22.8rem;
+
+  font-family: "Imprima";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 1.56rem;
+  line-height: 1.81rem;
+  color: #000000;
+}
+
+.input1 {
+  box-sizing: border-box;
+  width: 30.43rem;
+  height: 3.1rem;
+  left:5.5rem;
+  border: 3px solid #9dc164;
+  margin-top: 1.25rem;
+}
+.pass {
+  position: absolute;
+  width: 6.43rem;
+  height: 1.8rem;
+  left: 5.5rem;
+  top: 30.2rem;
+
+  font-family: 'Varela Round', sans-serif;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 1.5rem;
+  line-height: 1.8rem;
+  color: #000000;
+}
+.ckeckbox {
+  position: absolute;
+  width: 0.93rem;
+  height: 0.96rem;
+  left: 5.5rem;
+  top: 39.06rem;
+  background: #d9d9d9;
+}
+.remember {
+  position: absolute;
+  
+  height: 1.4rem;
+  left: 8.25rem;
+  top: 38.8rem;
+
+  font-family: 'Varela Round', sans-serif;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 1.25rem;
+  line-height: 1.4rem;
+  color: #000000;
+}
+.Button_Submit {
+  position: absolute;
+  width: 10.1rem;
+  height: 2.5rem;
+  left: 5.5rem;
+  top: 42.12rem;
+  font-family: 'Varela Round', sans-serif;
+  background: #9dc164;
+  border-radius: 0.5rem;
+  color: white;
+}
+.forget_passsword {
+  position: absolute;
+  width: 8.4rem;
+  height: 1.1rem;
+  left: 4.6rem;
+  top: 46.4rem;
+
+  font-family: 'Varela Round', sans-serif;
+  font-style: normal;
+  font-weight: 700;
+  font-size: 0.9rem;
+  line-height: 1.1rem;
+}
+a:visited {
+  color: #c1647b;
+}
+.register {
+  position: absolute;
+  width: 16.0rem;
+  height: 1.1rem;
+  left: 4.2rem;
+  top: 49.7rem;
+
+  font-family: 'Varela Round', sans-serif;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 0.9rem;
+  line-height: 1.1rem;
+  color: #000000;
+}
+.container2 {
+  display: flex;
+}
+
+.container3 {
+  display: flex;
+  width: 50%;
+  height: 70rem;
+  background: #eae9e7;
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+
+.welcome p {
+  font-family: 'Varela Round', sans-serif;
+  height: 2.1rem;
+  width: 11.6rem;
+  position: absolute;
+  left: 60.2rem;
+  top: 18.6rem;
+}
+
+.Vector2{
+  position: absolute;
+width: 499px;
+height: 298px;
+left: 830px;
+top: 406px;
+
+}

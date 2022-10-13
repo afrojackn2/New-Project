@@ -1,0 +1,423 @@
+.servicediv {
+    width: 100%;
+    height: 100vh;
+    background-image: url("./services.png");
+    background-size: 100% 100%;
+    display: flex;
+    align-items: center;
+    
+}
+.premium{
+
+    width: 40%;
+    height: 40%;
+    /* border: 2px solid black; */
+    background: #FFFFFF33;
+    margin-left: 2rem;
+    border-radius: 1rem;
+    text-align: left;
+    padding-left: 2rem;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+
+
+}
+.head2{
+    /* border: 2px solid white; */
+    font-size: 2rem;
+    font-weight: 600;
+    color: #ffffff;
+    margin-top: 0;
+    margin-bottom: 1rem;
+}
+.head3{
+    /* border: 2px solid white; */
+    font-size: 1.5rem;
+    font-weight: 400;
+    color: #ffffff;
+    margin-top: 0;
+    
+
+}
+.btn{
+    width: 25%;
+    height: 12%;
+    background: #c1647b;;
+    border: none;
+    color: white;
+    border-radius: .4rem;
+    font-size: 1rem;
+    font-weight: 400;
+
+}
+.serviceimg{
+    border: 2px solid black;
+    width: 100%;
+   height: 60vh;
+    background-image: url("../Images/Service/Group 10.png");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: auto;
+    
+}
+
+.p1_div{
+    /* border: 2px solid black; */
+    display: flex;
+    margin-top: 1rem;
+    
+}
+.p1{
+    /* border: 2px solid black; */
+    width: 32%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;   
+}
+.p1 img{
+    width: 1rem;
+    border: none;
+    margin-top: 1rem;
+}
+.p5{
+    /* border: 2px solid black; */
+    width: 42%;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
+    
+      
+}
+.p5 img{
+    width: 1rem;
+    border: none;
+    margin-top: 1rem;
+    margin-right: 4.5rem;
+}
+
+.p2_div{
+    /* border: 2px solid black; */
+    margin-top: 8%;
+    display: flex;
+}
+.p2{
+     /* border: 2px solid black; */
+     width: 52%;
+     display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;   
+}
+.p2 img{
+    width: 1rem;
+    border: none;
+    margin-top: 1rem;
+}
+
+.p4{
+    /* border: 2px solid black; */
+    width: 25%;
+    margin-top: 0;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;      
+}
+.p4 img{
+    width: 1rem;
+    border: none;
+    margin-top: 1rem;
+}
+.p3{
+     margin-top: 5.5rem;
+}
+
+
+.heading_BlogN {
+    margin-bottom: 5rem;
+    font-family: 'Varela Round', sans-serif;
+  }
+  .Our_linee {
+      position: absolute;
+      width: 10%;
+      height: 0.25rem;
+      background: #9dc164;
+      border-radius: 0.5rem;
+      margin-top: -4rem;
+      margin-left: -5%;
+  }
+  .Blog1_PicN-Section {
+      display: flex;
+      flex-direction: row;
+      align-items: center;
+      text-align: center;
+      width: 100%;
+     
+  }
+  .Blog1_PicN-Section img {
+      width: 167%;
+      margin-left: 26%;
+  }
+  .Blog1_PicN-Section .Calendar1_BlogN {
+      color: rgba(0, 0, 0, 0.5);
+      font-size: 22px;
+      margin-right: 19%;
+      font-family: 'Kanit', sans-serif;
+  }
+  .Blog1_PicN-Section p {
+      font-size: 20px;
+      font-family: 'Kanit', sans-serif;
+      font-weight: 500;
+      color: black;
+      text-align: justify;
+      margin-left: 35%;
+      width: 52%;
+  }
+  .Calendar1_BlogN-div {
+      margin-left: 10%;
+  }
+  .Calendar2_BlogN{
+      color: rgba(0, 0, 0, 0.5);
+  }
+  .Blog1_PicN-Section .Btn1 {
+      background: #c1647b;;
+      height: 2.5rem;
+      width: 15%;
+      border-radius: 10px;
+      color: white;
+      margin-right: 16%;
+      border: none;
+  }
+  .Blog2_PicN-Section {
+      display: flex;
+      text-align: center;
+      align-items: center;
+      flex-direction: column;
+  
+  }
+  .Blog2_PicN-Section .Blog2_PicN {
+      margin-right: -17%;
+      width: 100%;
+  }
+  .Calendar2_BlogN-div {
+      text-align: justify;
+      margin-left: 15%;
+  }
+  /* .Calendar2_BlogN-div h1 {
+      color: rgba(0, 0, 0, 0.5);
+  } */
+  .Calendar2_BlogNe {
+      margin-left: 10%;
+      color: rgba(0, 0, 0, 0.5);
+  }
+  .Calendar2_BlogN-div .paragraph3_BlogN {
+      font-family: 'Kanit', sans-serif;
+      font-size: 20px;
+      width: 54%;
+  }
+  .Calendar2_BlogN-div .paragraph5_BlogN {
+      font-family: 'Kanit', sans-serif;
+      font-size: 19px;
+      width: 87%;
+  }
+  .paragraph3_BlogNe{
+      font-family: 'Kanit', sans-serif;
+      font-size: 20px;
+      width: 54%;
+      margin-left: 10%;
+  }
+  .paragraph5_BlogNe{
+      font-family: 'Kanit', sans-serif;
+      font-size: 19px;
+      margin-left: 10%;
+      width: 76%;
+  }
+  .Btn1-n{
+      background: #c1647b;;
+      height: 2.5rem;
+      width: 30%;
+      border-radius: 10px;
+      color: white;
+      border: none;
+  }
+  .Btn1-New{
+      background: #c1647b;;
+      height: 2.5rem;
+      width: 30%;
+      border-radius: 10px;
+      color: white;
+      margin-left: 10%;
+      border: none;
+      
+  }
+  .Blog2_PicN-Section-new {
+    display: flex;
+    flex-direction: row;
+    margin-top: 4em;
+    margin-bottom: 2%;
+  }
+  
+  @media screen and (max-width: 770px) {
+      
+      .Blog1_PicN-Section {
+          display: flex;
+          flex-direction: column;
+  
+          width: 50%;
+          margin-left: -3%;
+      }
+      .Blog1_PicN-Section .Calendar1_BlogN {
+          margin-right: 24%; 
+      }
+      .Blog1_PicN-Section p {
+          text-align: justify;
+          margin-left: 21%;
+          width: 173%;
+      }
+      .Blog1_PicN-Section .Btn1 {
+          width: 44%;
+      }
+      .Blog2_PicN-Section-new {
+          display: flex;
+          flex-direction: column;
+          /* border: 2px solid black; */
+          margin-bottom: 7rem;
+      }
+      .Blog2_PicN-Section .Blog2_PicN {
+          width: 100%;
+          margin-right: 2.5rem;
+          padding: 35px;
+      }
+      .Calendar2_BlogN-div {
+          text-align: justify;
+          margin-left: 10%;
+      }
+      .Blog2_PicN-Section {
+          margin-top: 4rem;
+      }
+      .Calendar2_BlogNe {
+          margin-left: 1%;
+      }
+      .paragraph3_BlogNe {
+          width: 60%;
+          margin-left: 1%;
+      }
+      .paragraph5_BlogNe {
+          margin-left: 1%;
+          width: 84%;
+      }
+      .Btn1-New {
+          margin-left: 1%;
+      }
+      .Blog2_PicN-Section-new {
+          margin-top: 1rem;
+      }
+  }
+  @media screen and (max-width: 500px) {
+      .heading_BlogN {
+          margin-bottom: 5rem;
+          font-family: 'Varela Round', sans-serif;
+          font-size: 19px;
+      }
+      .Our_linee {
+          width: 17%;
+          margin-left: -9.5%;
+      }
+      .Blog1_PicN-Section .Calendar1_BlogN {
+          margin-right: -5%;
+          font-size: 18px;
+      }
+      .Blog1_PicN-Section p {
+          text-align: justify;
+          margin-left: 21%;
+          width: 171%;
+          font-family: 'Varela Round', sans-serif;
+          font-size: 16px;
+      }
+      .Blog1_PicN-Section .Btn1 {
+          width: 89%;
+          margin-left: 20%;
+      }
+      .Btn1-New {
+          margin-left: 1%;
+          width: 43%;
+      }
+      .Blog2_PicN-Section .Blog2_PicN {
+          margin-top: -4rem;
+      }
+      .Calendar2_BlogN {
+          color: rgba(0, 0, 0, 0.5);
+          font-size: 18px;
+          margin-top: -1rem;
+          margin-left: 0rem;
+      }
+      .Calendar2_BlogN-div .paragraph3_BlogN {
+          font-size: 16px;
+          width: 85%;
+          font-family: 'Varela Round', sans-serif;
+      }
+      .Calendar2_BlogN-div .paragraph5_BlogN {
+          font-size: 16px;
+          width: 87%;
+          font-family: 'Varela Round', sans-serif;
+      }
+      .Btn1-n {
+          height: 2.5rem;
+          width: 47%;
+      }
+      .Calendar2_BlogNe {
+          margin-left: 1%;
+          margin-top: -1rem;
+          font-size: 18px;
+      }
+      .paragraph3_BlogNe {
+          width: 84%;
+          margin-left: 1%;
+          font-family: 'Varela Round', sans-serif;
+          font-size: 16px;
+      }
+      .paragraph5_BlogNe {
+          font-family: 'Varela Round', sans-serif;
+          font-size: 16px;
+          width: 89%;
+          margin-left: 0rem;
+      }
+  }
+@media only screen and (max-width:821px) {
+    .premium {
+        width: 75%;
+       
+    }
+    .Blog1_PicN-Section img {
+        width: 161%;
+        padding: 2%;
+    }
+    .Blog1_PicN-Section .Calendar1_BlogN {
+        padding: 3%;
+    }
+    .Blog2_PicN-Section .Blog2_PicN {
+        width: 90%;
+        margin-right: 2.5rem;
+        padding: 35px;
+    }
+}
+
+@media only screen and (max-width:500px){
+.btn {
+    width: 41%;
+}
+.head3 {
+    font-size: 1rem;
+ 
+}
+.head2 {
+    font-size: 1.5rem;
+}
+.Blog2_PicN-Section .Blog2_PicN {
+    width: 87%;
+    margin-right: 2.5rem;
+    padding: 2rem;
+}
+}
